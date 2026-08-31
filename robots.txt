@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alygabora-ui.github.io/chainpulse/sitemap.xml
